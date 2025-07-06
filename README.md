@@ -12,3 +12,5 @@ A simple plugin requested by **Lumien** For SCP Secret Laboratory !
 
 What it do ? 
 When player drinks 3 SCP-207 and after when they drink the 4th cola they have the same speed as 3 cola but they don't take damage !
+
+(max coca speed by consume coca is configurable in confg)
