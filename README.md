@@ -1,7 +1,7 @@
 # 🍾 SuplerCola
 
 <p align="center">
-  <img src="https://img.shields.io/github/downloads/Konoaru384/SuperCola/total?style=for-the-badge" />
+  <img src="https://img.shields.io/github/downloads/Konoaru384/SuperCola/total?style=for-the-badge" alt="Total Downloads"/>
   <img src="https://img.shields.io/badge/EXILED-9.6.0+-blueviolet?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Discord-Join%20Us-7289DA?style=for-the-badge&logo=discord" />
   </a>
