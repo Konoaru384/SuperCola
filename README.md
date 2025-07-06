@@ -1,19 +1,19 @@
 # 🍾 SuplerCola
 
-<table align="center">
+<table align="center" cellpadding="0" cellspacing="0" style="border: none;">
   <tr>
-    <td valign="top">
+    <td style="vertical-align: top; padding: 0 4px;">
       <img
-        src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/Konoaru384/SuperCola/releases&query=sum(@[*].assets[*].download_count)&label=Total%20Downloads&color=blue&style=for-the-badge"
+        src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/Konoaru384/SuperCola/releases&query=sum(@[].assets[].download_count)&label=Total%20Downloads&color=blue&style=for-the-badge"
         alt="Total Downloads" />
     </td>
-    <td valign="top">
+    <td style="vertical-align: top; padding: 0 4px;">
       <img
         src="https://img.shields.io/badge/EXILED-9.6.2+-blueviolet?style=for-the-badge"
-        alt="Compatible Exiled 9.6.2+" />
+        alt="Exiled 9.6.2+" />
     </td>
-    <td valign="top">
-      <a href="https://discord.gg/TON_INVITE_ICI">
+    <td style="vertical-align: top; padding: 0 4px;">
+      <a href="https://discord.gg/vxGeGFr5Bc">
         <img
           src="https://img.shields.io/badge/Discord-Join%20Us-7289DA?style=for-the-badge&logo=discord"
           alt="Discord" />
